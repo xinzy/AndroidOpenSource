@@ -2,7 +2,8 @@ AndroidOpenSource
 =================
 
 Android开源框架或第三方控件等
-全文摘自 https://github.com/Trinea/android-open-project/。自己保留一份
+全文摘自 https://github.com/Trinea/android-open-project/ 
+仅仅自己保留一份
 
 
 
