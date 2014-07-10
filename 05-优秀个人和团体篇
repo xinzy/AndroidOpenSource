@@ -1,0 +1,85 @@
+
+## 第五部分  
+主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
+
+#### 一、个人  
+1. JakeWharton  
+就职于Square，绝对牛逼的大神，项目主要集中在Android版本兼容，ViewPager及开发工具上  
+Github地址：httpsgithub.comJakeWharton  
+代表作：ActionBarSherlock，Android-ViewPagerIndicator，Nine Old Androids，SwipeToDismissNOA，hugo，butterknife，Android-DirectionalViewPager, scalpel    
+pidcat另外对square及其他开源项目有很多贡献  
+主页：httpjakewharton.com  
+   
+1. Chris Banes  
+Github地址：httpsgithub.comchrisbanes  
+代表作：ActionBar-PullToRefresh，PhotoView，Android-BitmapCache，Android-PullToRefresh  
+主页：httpchris.banes.me  
+   
+1. Koushik Dutta  
+就职于ClockworkMod  
+Github地址：httpsgithub.comkoush  
+代表作：Superuser，AndroidAsync，UrlImageViewHelper，ion, 另外对httpsgithub.comCyanogenMod 的开源项目有很多贡献  
+主页：httpkoush.com  
+   
+1. Simon Vig  
+Github地址：httpsgithub.comSimonVT  
+代表作：android-menudrawer，MessageBar  
+主页：httpsimonvt.net  
+   
+1. Manuel Peinado  
+Github地址：httpsgithub.comManuelPeinado  
+代表作：FadingActionBar，GlassActionBar，RefreshActionItem，QuickReturnHeader  
+   
+1. Emil Sjlander  
+Github地址：httpsgithub.comemilsjolander  
+代表作：StickyListHeaders，sprinkles，android-FlipView  
+主页：httpemilsjolander.se  
+   
+1. greenrobot  
+Github地址：httpsgithub.comgreenrobot  
+代表作：greenDAO，EventBus  
+主页：httpgreenrobot.de  
+   
+1. Jeff Gilfelt  
+Github地址：httpsgithub.comjgilfelt  
+代表作：android-mapviewballoons，android-viewbadger，android-actionbarstylegenerator，android-sqlite-asset-helper  
+主页：httpjeffgilfelt.com  
+
+1.  Romain Guy  
+Android team成员(2013.10已离开Android team，仍在Google)  
+Github地址：httpsgithub.comromainguy  
+代表作：ViewServer  
+主页：httpwww.curious-creature.orgcategoryandroid   
+個人攝影作品：httpwww.flickr.comphotosromainguy  
+
+1. sephiroth74  
+就职于Aviary.com  
+Github地址：httpsgithub.comsephiroth74  
+代表作：ImageViewZoom，HorizontalVariableListView，AndroidWheel，purePDF  
+主页：httpwww.sephiroth.it   
+
+1. Cyril Mottier    
+Google开发者专家认证，发布一些Android技巧及文章  
+Github地址：httpsgithub.comcyrilmottier  
+代表作：GreenDroid，Polaris  
+主页：httpcyrilmottier.com  
+a href=httpsgithub.comTrineaandroid-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC title=返回目录 style=width100%img src=httpfarm4.staticflickr.com373712167413134_edcff68e22_o.png align=righta  
+
+#### 二、组织  
+1. Square  
+有态度有良心的企业，很多不错的分享  
+Github地址：httpsgithub.comsquare   
+代表作：okhttp、fest-android，android-times-square、picasso、dagger、spoon等等    
+主页：httpsquare.github.io  
+   
+1. Inmite s.r.o.  
+Github地址：httpsgithub.cominmite  
+代表作：android-styled-dialogs，android-grid-wichterle，android-selector-chapek  
+主页：httpwww.inmite.eu  
+a href=httpsgithub.comTrineaandroid-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC title=返回目录 style=width100%img src=httpfarm4.staticflickr.com373712167413134_edcff68e22_o.png align=righta  
+
+#### 三、博客  
+1. Chet Haase  
+Android framework UI team 成员  
+主页：httpgraphics-geek.blogspot.com  
+a href=httpsgithub.comTrineaandroid-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC title=返回目录 style=width100%img src=httpfarm4.staticflickr.com373712167413134_edcff68e22_o.png align=righta  
