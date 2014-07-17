@@ -18,9 +18,10 @@ Android开源项目分类汇总
 *&nbsp;&nbsp;比较有意思的完整的Android项目*  
 [Android开源项目第四篇——开发及测试工具篇](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md)  
 *&nbsp;&nbsp;包括[开发效率工具](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md#%E4%B8%80%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)、[开发自测相关](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md#%E4%BA%8C%E5%BC%80%E5%8F%91%E8%87%AA%E6%B5%8B%E7%9B%B8%E5%85%B3)、[测试工具](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md#%E4%B8%89%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7)、[开发及编译环境](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md#%E5%9B%9B%E5%BC%80%E5%8F%91%E5%8F%8A%E7%BC%96%E8%AF%91%E7%8E%AF%E5%A2%83)、[其他](https://github.com/xinzy/AndroidOpenSource/blob/master/04-开发工具及测试工具.md#%E4%BA%94%E5%85%B6%E4%BB%96)*  
-[Android开源项目第五篇——优秀个人和团体篇](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇)  
-*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*  
-
+[Android开源项目第五篇——优秀个人和团体篇](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇.md)  
+*&nbsp;&nbsp;乐于分享并且有一些很不错的开源项目的[个人](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇.md#%E4%B8%80%E4%B8%AA%E4%BA%BA)和[组织](https://github.com/xinzy/AndroidOpenSource/blob/master/05-优秀个人和团体篇.md#%E4%BA%8C%E7%BB%84%E7%BB%87)，包括JakeWharton、Chris Banes、Koushik Dutta等大牛*  
+[Android开源项目第六篇——其他篇](https://github.com/xinzy/AndroidOpenSource/blob/master/06-其他.md)  
+*&nbsp;&nbsp;其他一些库或者开源代码  
 
 
 ## License
