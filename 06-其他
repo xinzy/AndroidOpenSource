@@ -1,8 +1,0 @@
-
-## 第六部分  
-其他一些库或者开源的代码  
-
-#### 一、Adapter  
-1. base-adapter-helper
-重新定义ViewHolder，使Adapter更简单
-Github地址：https://github.com/JoanZapata/base-adapter-helper
