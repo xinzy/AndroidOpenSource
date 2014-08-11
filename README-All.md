@@ -690,6 +690,11 @@ APP示例：知乎
 可自定义样式的dialog，默认与Holo主题样式一致，在Android2.2以上同一样式  
 项目地址：https://github.com/inmite/android-styled-dialogs  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/styled-dialogs-demo.apk?raw=true  
+
+1. NiftyDialogEffects 
+款式漂亮的动画dialog
+项目地址：https://github.com/sd6352051/NiftyDialogEffects 
+Demo地址：
    
 1. Android Sliding Up Panel  
 可拖动的View，能在当前Activity上扶起一个可拖动的Panel  
