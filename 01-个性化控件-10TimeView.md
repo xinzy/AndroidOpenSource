@@ -38,3 +38,9 @@ Android日历选择器。
 效果图：  
 ![Renderings](imgs/DatePicker.gif)
 
+1. WeekCalendar  
+周模式的日历自定义控件，支持 4.0 以上。  
+项目地址：https://github.com/nomanr/WeekCalendar  
+效果图：  
+![Renderings](imgs/WeekCalendar.gif)
+
