@@ -96,6 +96,7 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 一个可以将图片像素化显示的自定义ImgeView, 可以做马赛克   
 项目地址：https://github.com/DanielMartinus/Pixelate  
 ![Renderings](imgs/Pixelate.jpg)   
+![Renderings](imgs/Pixelate.png)   
 
 1. WindowView  
 一个可以通过倾斜设备来控制平移的Imageview   
