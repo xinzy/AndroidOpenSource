@@ -146,9 +146,18 @@ SeekBar 的一个Material Design兼容实现，支持到API 16及以上。
 项目地址：https://github.com/edmodo/range-bar  
 Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo.apk?raw=true  
 效果图: ![Renderings](imgs/RangeBar.jpg)  
-
    
 1. Android Slider Preference Library  
 可添加到设置中的基于对话框的RankBar小部件  
-项目地址：https://github.com/jayschwa/AndroidSliderPreference   
-
+项目地址：https://github.com/jayschwa/AndroidSliderPreference 
+   
+1.DilatingDotsProgressBar  
+圆点交替扩大效果的进度条  
+项目地址：https://github.com/JustZak/DilatingDotsProgressBar   
+[](imgs/DilatingDotsProgressBar.gif)
+   
+1.CoolAndroidAnim  
+一个仿 6.0 系统的开机动画的 loading 效果,也是对于它的一个模仿:从四个小球的 不同的组合动画(包括了缩放,旋转,移动,变色等)演变成loading字样的效果.  
+项目地址：https://github.com/TomWithJerry/CoolAndroidAnim   
+[](imgs/CoolAndroidAnim1.gif)
+[](imgs/CoolAndroidAnim2.gif)

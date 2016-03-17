@@ -63,3 +63,7 @@ GroupName滑动到顶端时会固定不动直到另外一个GroupName到达顶�
 效果图：  
 ![](imgs/drag-select-recyclerview.gif)  
 
+1. greedo-layout-for-android  
+深度定制的 LayoutManager，在显示网格布局的时候会考虑屏幕宽高比。   
+项目地址：https://github.com/500px/greedo-layout-for-android   
+![](imgs/greedo-layout-for-android.png)  

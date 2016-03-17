@@ -106,7 +106,33 @@ AndroidMaterial Design风格的Preference Setting控件集。
 效果图  
 ![](imgs/app-theme-engine.png)  
 
+1. MaterialStyledDialogs  
+Material 风格的 Dialog   
+项目地址： https://github.com/javiersantos/MaterialStyledDialogs  
+效果图  
+![](imgs/MaterialStyledDialogs.png)  
 
+1. slidingtutorial-android  
+一个帮助 Android 开发者快速创建带有可滑动效果的用户引导功能库  
+项目地址： https://github.com/Cleveroad/slidingtutorial-android  
+效果图  
+![](imgs/slidingtutorial-android.gif)  
+
+1. MaterialIntroView  
+一款可用于给 Android 应用添加用户引导视图的库  
+项目地址： https://github.com/iammert/MaterialIntroView  
+效果图  
+![](imgs/MaterialIntroView.gif)  
+
+1. material-intro  
+Material Design 风格的引导页  
+项目地址： https://github.com/HeinrichReimer/material-intro  
+![](imgs/material-intro.png)  
+
+1. ForegroundViews  
+类似于 FrameLayout 的支持的前景自定义 View  
+项目地址： https://github.com/Commit451/ForegroundViews  
+![](imgs/ForegroundViews.gif)  
 
 
 

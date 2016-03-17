@@ -179,3 +179,23 @@ Android平台下的富文本显示控件，支持Html格式文本、支持图片
 ![](imgs/HTextView7.gif)
 ![](imgs/HTextView8.gif)
 
+1. SearchView  
+仿 Google Now 的搜索View控件。  
+项目地址：https://github.com/lapism/SearchView  
+效果图  
+![](imgs/SearchView1.png)  
+![](imgs/SearchView2.png)  
+
+1. EmphasisTextView  
+支持部分文字高亮的 TextView  
+项目地址：https://github.com/athkalia/EmphasisTextView  
+![](imgs/EmphasisTextView.png) 
+
+1. android-material-chips  
+Material Design 的 Chips 控件实现  
+项目地址：https://github.com/DoodleScheduling/android-material-chips  
+![](imgs/android-material-chips1.png)  
+![](imgs/android-material-chips2.png)  
+
+
+

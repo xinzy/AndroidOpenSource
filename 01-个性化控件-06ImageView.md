@@ -111,3 +111,7 @@ APP示例：https://play.google.com/store/apps/details?id=com.aviary.android.fea
 Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能   
 项目地址：https://github.com/LuckyJayce/LargeImage  
 
+1. crop-image-layout  
+图片裁切布局   
+项目地址：https://github.com/yulu/crop-image-layout  
+[](imgs/crop-image-layout.gif)
