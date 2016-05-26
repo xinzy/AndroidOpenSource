@@ -154,10 +154,18 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/range-bar-demo
 1.DilatingDotsProgressBar  
 圆点交替扩大效果的进度条  
 项目地址：https://github.com/JustZak/DilatingDotsProgressBar   
-[](imgs/DilatingDotsProgressBar.gif)
+![](imgs/DilatingDotsProgressBar.gif)
    
 1.CoolAndroidAnim  
 一个仿 6.0 系统的开机动画的 loading 效果,也是对于它的一个模仿:从四个小球的 不同的组合动画(包括了缩放,旋转,移动,变色等)演变成loading字样的效果.  
 项目地址：https://github.com/TomWithJerry/CoolAndroidAnim   
-[](imgs/CoolAndroidAnim1.gif)
-[](imgs/CoolAndroidAnim2.gif)
+![](imgs/CoolAndroidAnim1.gif)
+![](imgs/CoolAndroidAnim2.gif)
+
+1.LoadingDrawable   
+几个 Loading 动画效果   
+项目地址：https://github.com/dinuscxj/LoadingDrawable  
+![](imgs/LoadingDrawable1.gif)
+![](imgs/LoadingDrawable2.gif)
+![](imgs/LoadingDrawable3.gif)
+![](imgs/LoadingDrawable4.gif)
