@@ -44,3 +44,15 @@ Android日历选择器。
 效果图：  
 ![Renderings](imgs/WeekCalendar.gif)
 
+1. CalendarSelector  
+一个日期显示和选择库，可以用来选择一段连续的和多个不连续的日期，具体的UI完全抽象出来了，可以高度自定义  
+项目地址：https://github.com/TUBB/CalendarSelector  
+效果图：  
+![Renderings](imgs/CalendarSelector.gif)  
+
+1. TimePickerDialog  
+Android时间选择器，支持年月日时分，年月日，年月，月日时分，时分格式，可以设置最小时间（精确到分）  
+项目地址：https://github.com/JZXiang/TimePickerDialog  
+效果图：  
+![Renderings](imgs/TimePickerDialog.gif)  
+

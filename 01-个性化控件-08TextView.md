@@ -197,5 +197,10 @@ Material Design 的 Chips 控件实现
 ![](imgs/android-material-chips1.png)  
 ![](imgs/android-material-chips2.png)  
 
+1. MarqueeView  
+垂直滚动的跑马灯效果  
+项目地址：https://github.com/sfsheng0322/MarqueeView  
+![](imgs/MarqueeView.gif)   
+
 
 

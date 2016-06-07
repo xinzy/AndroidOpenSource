@@ -42,4 +42,11 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 项目地址：https://github.com/TakeoffAndroid/CustomSnackBar  
 效果图：  
 ![Renderings](imgs/CustomSnackBar.gif)  
+   
+1. BubbleView  
+一个带箭头的Android气泡控件/容器类，支持在布局中通过自定义属性或代码进行丰富的定制，包括箭头朝向、箭头位置、气泡弧角、边线颜色、边线粗细、颜色填充、填充Padding等等  
+项目地址：https://github.com/cpiz/BubbleView  
+效果图：  
+![Renderings](imgs/BubbleView1.png)   
+![Renderings](imgs/BubbleView2.png)  
 
